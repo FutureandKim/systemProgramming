@@ -1,0 +1,5 @@
+This is test.dat.
+Today is Thursday.
+System Programming.
+This is the first assignment.
+This is the last sentence and the last line.
